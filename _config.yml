@@ -1,13 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Tatiana Gabel
+logo: "https://media.licdn.com/dms/image/v2/D4D03AQFxADCHIAQZow/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709892525258?e=1765411200&v=beta&t=p2mp1uC8f_LNw92VK1ryKPfBgfu5WCEVNiIiGezYx28?raw=true"
+description: >
+  Software Developer
   <br><br>
-  Second description 
+  Colorado State University Computer and Data Science
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/tiana-gabel/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 # TBD Google Analytics tracking ID here
