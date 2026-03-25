@@ -35,6 +35,10 @@ Developed a scalable recommendation system for board games using Alternating Lea
 Designed and implemented an AI-based scheduling system for volunteer labor using Google OR-Tools. Applied Mixed Integer Programming (MIP) and CP-SAT solvers to optimize shift assignments while satisfying constraints such as availability, labor limits, and preferences. Delivered a working prototype that efficiently generated conflict-free schedules, demonstrating practical application of constraint programming and optimization techniques.
 </p>
 
+[Data Analysis of University Grant Data](https://www.linkedin.com/in/tiana-gabel/)
+<p style="font-size:11px">
+Developed an automated data pipeline to analyze university grant distribution and research funding trends. Leveraged Python and Pandas for rigorous data cleaning and transformation of disparate datasets. Designed an interactive Power BI dashboard to visualize key metrics, providing stakeholders with actionable insights into funding allocation, department performance, and year-over-year growth.
+</p>
 ---
 
 ### Extracurriculars
