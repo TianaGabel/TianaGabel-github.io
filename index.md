@@ -38,3 +38,10 @@ Designed and implemented an AI-based scheduling system for volunteer labor using
 ---
 
 ### Extracurriculars
+
+
+* **CSU's Data Science Club 4th Paradigm** Served as Vice President, coordinating club activities and fostering a community centered on data-driven projects and research.
+
+* **USDA x NASA Hackathon 2025 and 2024** Collaborated on interdisciplinary teams to develop technology-driven solutions for agricultural and aerospace challenges using open-source datasets.
+
+---
