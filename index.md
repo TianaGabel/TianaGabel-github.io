@@ -42,7 +42,7 @@ Developed an automated data pipeline to analyze university grant distribution an
 ---
 
 ### Extracurriculars
-
+* **Veterinary Technology Innovation Hack4Health 2026 Winner** Placed first in an interdisciplinary team in creating a pitch and prototype application to inform cattle health analytics in collaboration with Merck.
 
 * **CSU's Data Science Club 4th Paradigm** Served as Vice President, coordinating club activities and fostering a community centered on data-driven projects and research.
 
